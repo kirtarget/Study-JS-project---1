@@ -1,2 +1,2 @@
-# Study-JS-project---1
+# Pig-game
 The Pig game
